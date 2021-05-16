@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello Haruhi Fans 👋
+
+[![luvletter2333's GitHub stats](https://github-readme-stats.vercel.app/api?username=luvletter2333&count_private=true)](https://github.com/luvletter2333)
+
 
 <!--
 **luvletter2333/luvletter2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
