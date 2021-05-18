@@ -32,5 +32,5 @@
 - [Blog](https://blog.luvletter.me), still under construction
 
 
-[![luvletter2333's GitHub stats](https://github-readme-stats.vercel.app/api?username=luvletter2333&count_private=true)](https://github.com/luvletter2333)
+[![luvletter2333's GitHub stats](https://github-readme-stats.vercel.app/api?username=luvletter2333&count_private=true&icon_color=FB7299&title_color=FB7299)](https://github.com/luvletter2333)
 
