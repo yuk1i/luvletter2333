@@ -14,12 +14,12 @@
 
 - A Computer Science Undergraduate Student
 - Hackintosher
-- Currently Working on [NekoX](https://github.com/NekoX-Dev/NekoX) as a maintainer
+- Currently Working on [NekoX](https://github.com/NekoX-Dev/NekoX) as a developer
 - Studying C/C++ & Rust
 - ACG Lover, KyoAni Fans
 
 ### My Projects
-- [NekoX-Dev/NekoX](https://github.com/NekoX-Dev/NekoX) as a maintainer
+- [NekoX-Dev/NekoX](https://github.com/NekoX-Dev/NekoX) as a developer
 - [Live-SubTitle](https://github.com/luvletter2333/Live-SubTitle), a tiny software used to add subtitles in live production
 - [ItChat](https://github.com/luvletter2333/ItChat), a modification version of ItChat based on UOS
 
