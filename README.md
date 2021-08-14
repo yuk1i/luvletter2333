@@ -14,7 +14,7 @@
 
 - A Computer Science Undergraduate Student
 - Hackintosh & Debian
-- Currently Working on [NekoX](https://github.com/NekoX-Dev/NekoX) as a developer
+- Currently working on [NekoX](https://github.com/NekoX-Dev/NekoX) as a developer
 - Studying C/C++ & Rust
 - ACG Lover, KyoAni Fans
 
