@@ -13,7 +13,7 @@
 ### I'm luvletter2333
 
 - A Computer Science Undergraduate Student
-- Hackintosh & Debian
+- Hackintosh & Debian User
 - Currently working on [NekoX](https://github.com/NekoX-Dev/NekoX) as a developer
 - Studying C/C++ & Rust
 - ACG Lover, KyoAni Fans
