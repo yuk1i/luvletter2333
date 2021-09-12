@@ -30,6 +30,7 @@
 ### About Me
 - [Personal Telegram Channel](https://t.me/Haruhi_Channel)
 - [Blog](https://blog.luvletter.me), still under construction
+- PGP Fingerprint: 02CD 5655 2B21 7AD2 DFE0  20DB BFD6 8B89 2BEC C1D8
 
 
 [![luvletter2333's GitHub stats](https://github-readme-stats.vercel.app/api?username=luvletter2333&count_private=true&icon_color=FB7299&title_color=FB7299)](https://github.com/luvletter2333)
